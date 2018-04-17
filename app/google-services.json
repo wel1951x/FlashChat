@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406207558685",
+    "firebase_url": "https://flashchat-3c3f0.firebaseio.com",
+    "project_id": "flashchat-3c3f0",
+    "storage_bucket": "flashchat-3c3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406207558685:android:bd616b16ae61d305",
+        "android_client_info": {
+          "package_name": "com.tahoesoftware.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406207558685-fa6c45k0c09nhpcvma6me1j6o0ha7dpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAl1ogruiosEPD6wk6qvNmdqQIqPKPMLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
